@@ -14,7 +14,7 @@ public class RegisterUser : MonoBehaviour {
 	private string Conf_Password;
 	private string Email;
 	//string RegisterURL = "localhost/TUP-OTG/RegisterUser.php";
-	string RegisterURL = "tup-otg.comli.com/RegisterUser.php";
+	string RegisterURL = "http://tup-otg.comli.com/RegisterUser.php";
 	// Use this for initialization
 	void Start () {
 		

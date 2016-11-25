@@ -10,7 +10,7 @@ public class LoginUser : MonoBehaviour {
 	private string Username;
 	private string Password;
 	//string LoginURL = "localhost/TUP-OTG/LoginUser.php";
-	string LoginURL = "tup-otg.comli.com/LoginUser.php";
+	string LoginURL = "http://tup-otg.comli.com/LoginUser.php";
 	// Use this for initialization
 	void Start () {
 	
